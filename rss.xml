@@ -4,7 +4,7 @@
         <description><![CDATA[VERVORM]]></description>
         <link>https://thegrid.ai/vervorm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 13:29:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vervorm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Don't make me think]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/vervorm/dont-make-me-think/index.html</link>
             <guid isPermaLink="false">ca5415d4-6391-449a-b03a-231a085c69fa</guid>
             <pubDate>Sun, 08 Nov 2015 13:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's all about me, myself and I]]></title>
-            <description><![CDATA[<article><h1>It's all about me, myself and I</h1><p>Hi, this site is about me, Steven Verhoest, a freelance User Interface designer. I want you to know that I tried to put as much as possible in this website concerning myself and my knowledge. It's not just about the content but also about the underlying technology I used to build this site, the pictures I used, etc. Every aspect of this site tells something about me as a person and as a User Interface designer/developer.</p></article>]]></description>
-            <link>http://www.vervorm.be/</link>
-            <guid isPermaLink="false">119ba24f-22db-41ea-b237-630384684e82</guid>
-            <pubDate>Sun, 08 Nov 2015 12:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
