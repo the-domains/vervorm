@@ -1,29 +1,38 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.vervorm.be/#moreAboutMe'
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Forms follows function but the looks of your site or application does matter. No? Before you read this you have to read the part about \"Don't make me think\". Be"
-datePublished: '2015-11-08T12:49:19.160Z'
-dateModified: '2015-11-08T12:48:57.653Z'
+description: ''
+datePublished: '2015-11-08T13:19:42.879Z'
+dateModified: '2015-11-08T13:19:35.425Z'
 author: []
-title: Size does matter
+title: "Don't make me think"
+sourcePath: _posts/2015-11-08-size-does-matter.md
+published: true
 authors: []
 publisher:
   name: vervorm.be
   domain: www.vervorm.be
   url: null
   favicon: null
-sourcePath: _posts/2015-11-08-size-does-matter.md
-published: true
+url: dont-make-me-think/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Size does matter
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43edd959-2897-4302-97a2-f8d3f2f87a95.png)
+# Don't make me think
 
-Forms follows function but the looks of your site or application does matter. No? Before you read this you have to read the part about "Don't make me think". Because the looks of a site are of course extremely important. But it has to be, before all functional. As a designer, I try to find this thin line between looks and functionality. I will use proven usability semantics and merge them with the look and feel that's appropriate for your website or web application. Check out my "Eye candy" or "The truth is out there" and see for yourself what I'm capable of or what I think is good web design.
+> Or why "not having to think" is **sooo important **for you, me and by the way for **your site**.
+
+**"Don't Make Me Think"**
+. It comes from the wonderful book "Don't Make Me Think: A Common Sense Approach to Web Usability" by
+
+I follow this way of thinking as close as possible. Approaching the user in this manner, finds its roots in industrial design and ergonomics. This is a perfect example how industrial design and web design have a common ground.
+
+The web is these days all about the**end-user and the user-experience**. But don't make your site fancy for the sake of having a lot of whoosh and bling bling. The user doesn't want to **RTFM(\*)**so your web application or site**has to be crystal clear**. The user needs to find immediately what he wants and what he's interested it without thinking.
+
+(\* RTFM = Read The F\*\*\*'n Manual)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c3d48b0-92e7-4dd1-99fa-7922f443aed5.jpg)
