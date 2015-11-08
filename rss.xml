@@ -4,7 +4,7 @@
         <description><![CDATA[VERVORM]]></description>
         <link>https://thegrid.ai/vervorm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 12:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 12:49:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vervorm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It's all about me, myself and I]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.vervorm.be/</link>
             <guid isPermaLink="false">119ba24f-22db-41ea-b237-630384684e82</guid>
             <pubDate>Sun, 08 Nov 2015 12:34:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Size does matter]]></title>
+            <description><![CDATA[<article><h1>Size does matter</h1><p>Forms follows function but the looks of your site or application does matter. No? Before you read this you have to read the part about "Don't make me think". Be</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43edd959-2897-4302-97a2-f8d3f2f87a95.png"></article>]]></description>
+            <link>http://www.vervorm.be/#moreAboutMe</link>
+            <guid isPermaLink="false">ca5415d4-6391-449a-b03a-231a085c69fa</guid>
+            <pubDate>Sun, 08 Nov 2015 12:49:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
