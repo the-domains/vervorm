@@ -1,23 +1,35 @@
-name: VERVORM
-favicon: null
-layout_spectrum: 0.42217
-typography_spectrum: 0.30735534708946943
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.4821232247631997
-  saturation: 0.2548143286257982
-  rhythmicContrast: 0.4062917255796492
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2548143286257982
+  brandStrength: 0
+  rhythmicContrast: 0.4062917255796492
+  brandColors: []
+  lightness: 0.4821232247631997
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: VERVORM
