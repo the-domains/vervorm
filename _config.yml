@@ -1,6 +1,6 @@
 name: VERVORM
 favicon: null
-layout_spectrum: 0.3971355508547276
+layout_spectrum: 0.97759
 typography_spectrum: 0.30735534708946943
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.23370821843855083
+  brandStrength: 0.25
   lightness: 0.4821232247631997
   saturation: 0.2548143286257982
   rhythmicContrast: 0.4062917255796492
