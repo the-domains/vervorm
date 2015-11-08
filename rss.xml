@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[VERVORM]]></title>
         <description><![CDATA[VERVORM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vervorm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 12:34:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 Nov 2015 12:42:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vervorm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It's all about me, myself and I]]></title>
             <description><![CDATA[<article><h1>It's all about me, myself and I</h1><p>Hi, this site is about me, Steven Verhoest, a freelance User Interface designer. I want you to know that I tried to put as much as possible in this website concerning myself and my knowledge. It's not just about the content but also about the underlying technology I used to build this site, the pictures I used, etc. Every aspect of this site tells something about me as a person and as a User Interface designer/developer.</p></article>]]></description>
             <link>http://www.vervorm.be/</link>
             <guid isPermaLink="false">119ba24f-22db-41ea-b237-630384684e82</guid>
             <pubDate>Sun, 08 Nov 2015 12:34:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/vervorm/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">eec0f6aa-d8b1-4970-bb90-d9479b5018b6</guid>
+            <pubDate>Sun, 08 Nov 2015 12:42:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
