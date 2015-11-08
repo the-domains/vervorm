@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VERVORM]]></title>
+        <description><![CDATA[VERVORM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 Nov 2015 12:34:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's all about me, myself and I]]></title>
+            <description><![CDATA[<article><h1>It's all about me, myself and I</h1><p>Hi, this site is about me, Steven Verhoest, a freelance User Interface designer. I want you to know that I tried to put as much as possible in this website concerning myself and my knowledge. It's not just about the content but also about the underlying technology I used to build this site, the pictures I used, etc. Every aspect of this site tells something about me as a person and as a User Interface designer/developer.</p></article>]]></description>
+            <link>http://www.vervorm.be/</link>
+            <guid isPermaLink="false">119ba24f-22db-41ea-b237-630384684e82</guid>
+            <pubDate>Sun, 08 Nov 2015 12:34:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
