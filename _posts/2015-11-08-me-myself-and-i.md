@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-08T13:50:18.585Z'
-dateModified: '2015-11-08T13:49:49.296Z'
+datePublished: '2015-12-09T12:12:43.225Z'
+dateModified: '2015-12-09T12:12:30.634Z'
 title: 'Me, myself and I'
+sourcePath: _posts/2015-11-08-me-myself-and-i.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-08-me-myself-and-i.md
-published: true
 url: me-myself-and-i/index.html
 _type: Article
 
@@ -24,6 +25,10 @@ _type: Article
 # Me, myself and I
 
 Hi, this site is about me,**Steven Verhoest**, a freelance **User Interface **designer.
+
+And this grid thing is nothing what I expected. Totally not useable!!!!
+
+It sucks...............................maybe in a year of 2.........................who knows.
 
 I want you to know that I tried to put as much as possible in this website concerning myself and my knowledge. It's not just about the content but also about the underlying technology I used to build this site, the pictures I used, etc. Every aspect of this site tells something about me as a person and as a User Interface designer/developer.
 
