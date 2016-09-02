@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T07:59:38.783Z'
+datePublished: '2016-08-31T08:00:20.017Z'
 sourcePath: _posts/2015-11-08-me-myself-and-i.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T07:59:38.345Z'
+dateModified: '2016-08-31T08:00:19.553Z'
 title: 'Me, myself and I'
 publisher: {}
 description: >-
