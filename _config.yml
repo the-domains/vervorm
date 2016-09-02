@@ -23,6 +23,9 @@ navigation:
   - name: 'Me, myself and I'
     id: 8e5ed1bb-c1ea-4e41-9120-a2bdbe455b58
     type: content
+  - name: Don't make me think
+    id: ca5415d4-6391-449a-b03a-231a085c69fa
+    type: content
 favicon: null
 collections:
   - index:
