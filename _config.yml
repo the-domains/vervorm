@@ -1,7 +1,29 @@
-name: VERVORM
-favicon: null
-layout_spectrum: 0.58184
 typography_spectrum: 0.55818
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.58184
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: VERVORM
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Me, myself and I'
+    id: 8e5ed1bb-c1ea-4e41-9120-a2bdbe455b58
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -14,22 +36,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 0.75
 purpose: []
