@@ -4,21 +4,21 @@
         <description><![CDATA[VERVORM]]></description>
         <link>https://thegrid.ai/vervorm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 12:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 07:59:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vervorm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Don't make me think]]></title>
-            <description><![CDATA[<article><h1>Don't make me think</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c3d48b0-92e7-4dd1-99fa-7922f443aed5.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c3d48b0-92e7-4dd1-99fa-7922f443aed5.jpg">]]></description>
             <link>https://thegrid.ai/vervorm/dont-make-me-think/index.html</link>
             <guid isPermaLink="false">ca5415d4-6391-449a-b03a-231a085c69fa</guid>
             <pubDate>Sun, 08 Nov 2015 13:19:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Me, myself and I]]></title>
-            <description><![CDATA[<article><h1>Me, myself and I</h1><p>Hi, this site is about me,Steven Verhoest, a freelance User Interface designer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87e9c41-1854-41cd-9e13-85809960abcb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Me, myself and I</h1><p>Hi, this site is about me,Steven Verhoest, a freelance User Interface designer.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87e9c41-1854-41cd-9e13-85809960abcb.jpg"></article>]]></description>
             <link>https://thegrid.ai/vervorm/me-myself-and-i/index.html</link>
             <guid isPermaLink="false">8e5ed1bb-c1ea-4e41-9120-a2bdbe455b58</guid>
-            <pubDate>Wed, 09 Dec 2015 12:12:43 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 07:59:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
