@@ -3,21 +3,19 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-08T13:19:42.879Z'
-dateModified: '2015-11-08T13:19:35.425Z'
+description: >-
+  . It comes from the wonderful book "Don't Make Me Think: A Common Sense
+  Approach to Web Usability" by
+datePublished: '2016-08-31T08:00:40.876Z'
+dateModified: '2016-08-31T08:00:40.080Z'
 author: []
-title: "Don't make me think"
+title: Don't make me think
 sourcePath: _posts/2015-11-08-size-does-matter.md
-published: true
 authors: []
-publisher:
-  name: vervorm.be
-  domain: www.vervorm.be
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: dont-make-me-think/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -27,7 +25,6 @@ _type: Article
 
 > Or why "not having to think" is **sooo important **for you, me and by the way for **your site**.
 
-**"Don't Make Me Think"**
 . It comes from the wonderful book "Don't Make Me Think: A Common Sense Approach to Web Usability" by
 
 I follow this way of thinking as close as possible. Approaching the user in this manner, finds its roots in industrial design and ergonomics. This is a perfect example how industrial design and web design have a common ground.
